@@ -120,4 +120,12 @@ Some of the data presented includes releases from:
 
 The repositories are:
 
-Impact Weighted Accounts
+- **[Impact Weighted Accounts](https://github.com/danielrosehill/ImpactWeightedAccounts)** -  Data releases from various bodies involved in advancing impact weighted accounting (IWA) and (coming soon!) visualisations based upon those. The repository will also host the data in more analytic-friendly formats. 
+- [**Outcomes Funds**](https://github.com/danielrosehill/Outcomes-Funds) - Aggregating data releases about the evolution and growth of outcomes funds. The objectives are must the same as the IWA repository.
+- [**Impact Weighted Accounts demo app**](https://github.com/danielrosehill/Impact-Weighted-Accounts-Demo-App) - The goal with this repository is to develop a prototype app to read impact weighted accounts "tags" added to products through NFC tags. As data sources, the app will build on the IWA repository store.
+
+------
+
+Feedback? Have some other reason to get in touch?
+
+- public at danielrosehill dot com
