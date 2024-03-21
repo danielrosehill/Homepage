@@ -20,6 +20,10 @@ Some repos sharing that:
 - https://github.com/danielrosehill/UbuntuBackupStrategy
 - https://github.com/danielrosehill/backup_internet_israel
 
+These are some schematics for mult-WAN internet for automatic connection failover:
+
+- https://github.com/danielrosehill/backup_internet_israel
+
 ### Cloud/SaaS Backup
 
 There aren't all that many sayings in IT that can be fairly described as "properly hackneyed" but "the cloud is just somebody else's computer" is probably one of them.
@@ -45,3 +49,57 @@ As I figure things out, I'll occasionally share them here:
 
 https://github.com/danielrosehill/HAAutomations
 
+![](images/hvac.png)
+
+------
+
+## English to Hebrew Vocab Flashcards For Anki
+
+I created some Anki flashcards for learning technology related vocabulary in Hebrew.
+
+![](images/anki.png)
+
+
+
+Ideally I will keep this updated periodically but ... let's see!
+
+- https://github.com/danielrosehill/ENHETechDictionary
+
+------
+
+
+
+## Tech Articles
+
+I'm a big proponent of open-sourcing information, particularly as it relates to technology.
+
+Whenever I figure out something difficult ... I try to jot down some instructions. 
+
+I do this partially for my own purposes. And partially because I figure it might help somebody out.
+
+For the most part, I find video the best medium for doing this. 
+
+My tech channel on YouTube is called Daniel's Tech World and [can be found here.](https://www.youtube.com/@danielontech)
+
+I've also uploaded how-tos to Hackster, Github, Medium, and elsewhere.
+
+- https://www.youtube.com/channel/UCQ1TBIr0NOQsWiQtil8OAjw
+- https://github.com/danielrosehill/TechnicalArticles
+- https://www.hackster.io/danielrosehill/
+- https://medium.com/daniels-tech-world
+
+------
+
+## Paleo Hebrew
+
+Hebrew has not always been written in the characters that are familiar to many today!
+
+I learned to read Paleo Hebrew for my wedding (which had a Biblical vibe!). 
+
+I also printed *birkonim* (after meal prayer books) in interlinear Proto-Ashurit-English.
+
+![Inventory20240321_172601](images/Inventory20240321_172601.png)
+
+The document project files and a few other goodies are here:
+
+- https://github.com/danielrosehill/PaleoHebrew
