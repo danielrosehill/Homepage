@@ -6,7 +6,7 @@ Hello and welcome to my homepage on Github!
 
 My name is Daniel and I live in Jerusalem, Israel.
 
-This Github account contains a rather eclectic mix of repositories so I thought I would write a little note to explain what's residing here. 
+This Github account contains a [rather eclectic mix of repositories](https://github.com/danielrosehill?tab=repositories&q=&type=&language=&sort=name) so I thought I would write a little note to explain what's residing here. 
 
 ## Backup Related Material
 
@@ -103,3 +103,21 @@ I also printed *birkonim* (after meal prayer books) in interlinear Proto-Ashurit
 The document project files and a few other goodies are here:
 
 - https://github.com/danielrosehill/PaleoHebrew
+
+------
+
+## Impact Investing Research 
+
+I currently work in the field of impact investing and believe that transparency around companies' holistic impacts, on people and planet, would be a huge step forward. 
+
+The repositories I am working on for impact investing aim to centralise some data releases related to tentative methodologies to make such data available. 
+
+Some of the data presented includes releases from:
+
+- [International Foundation for Valuing Impacts (IFVI)](https://ifvi.org/)
+- Impact Weighted Accounts Initiative (IWAI)
+- [GO Lab at Brookings](https://golab.bsg.ox.ac.uk/knowledge-bank/indigo/) 
+
+The repositories are:
+
+Impact Weighted Accounts
